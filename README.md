@@ -36,20 +36,23 @@ Clone the project repository:
 git clone https://github.com/aliabuelhija/FlyWithMe.git
 cd FlyWithMe
 
-Follow the setup instructions for both backend and frontend components provided in the repository's documentation.
+## Testing
 
-Testing
-Quality and reliability are foundational to Fly With Me. We implement a comprehensive testing strategy that includes manual and automated testing to ensure the app's functionality and reliability. For detailed instructions on how to run tests, please refer to our testing documentation.
+Quality and reliability are foundational to **Fly With Me**. We implement a comprehensive testing strategy that includes manual and automated testing to ensure the app's functionality and reliability. For detailed instructions on how to run tests, please refer to our testing documentation.
 
-Project Management
-The development of Fly With Me adheres to Agile methodologies, focusing on bi-weekly sprints tracked via Trello. This approach allows our team to remain flexible and responsive to both project needs and user feedback.
+## Project Management
 
-License
-Fly With Me is released under the MIT License. For more information, see the LICENSE file in the repository.
+The development of **Fly With Me** adheres to Agile methodologies, focusing on bi-weekly sprints tracked via Trello. This approach allows our team to remain flexible and responsive to both project needs and user feedback.
 
-Special Thanks
-We extend our heartfelt gratitude to all users of Fly With Me for your support, feedback, and active participation. Your involvement is crucial to the continuous enhancement of our application.
+## License
+
+**Fly With Me** is released under the MIT License. For more information, see the [LICENSE](LICENSE.md) file in the repository.
+
+## Special Thanks
+
+We extend our heartfelt gratitude to all users of **Fly With Me** for your support, feedback, and active participation. Your involvement is crucial to the continuous enhancement of our application.
 
 Special thanks to the TripAdvisor API for enabling access to a wealth of travel information, which significantly enriches our application and user experience.
 
-Thank you for being part of our journey. We are excited to continue improving Fly With Me to meet your travel planning needs.
+Thank you for being part of our journey. We are excited to continue improving **Fly With Me** to meet your travel planning needs.
+
