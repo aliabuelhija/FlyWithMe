@@ -34,6 +34,7 @@ Clone the project repository:
 git clone https://github.com/aliabuelhija/FlyWithMe.git
 cd FlyWithMe
 # Follow the setup instructions for both backend and frontend components.
+
 ## Testing
 
 Quality and reliability are foundational to **Fly With Me**. We implement a comprehensive testing strategy that includes manual and automated testing to ensure the app's functionality and reliability. For detailed instructions on how to run tests, please refer to our testing documentation.
