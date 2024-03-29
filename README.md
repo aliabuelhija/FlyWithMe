@@ -33,6 +33,7 @@ Clone the project repository:
 ```bash
 git clone https://github.com/aliabuelhija/FlyWithMe.git
 cd FlyWithMe
+```
 # Follow the setup instructions for both backend and frontend components.
 
 ## Testing
